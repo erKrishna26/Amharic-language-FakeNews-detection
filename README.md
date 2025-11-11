@@ -72,7 +72,7 @@ Develop and evaluate deep learning models for automated fake news detection in t
 
 **Project by:**  
 - Krishna Srikar Manikonda
-- Likith Reedy
+- Likith Reddy
 - Dadam Hemanth Kumar Reddy
 
 **Under the guidance of:**  
