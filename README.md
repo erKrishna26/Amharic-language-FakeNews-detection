@@ -97,3 +97,7 @@ Manikonda, K. S.(2025).
 National Institute of Technology, Puducherry.  
 Available at: [https://github.com/your-username/Amharic-Fake-News-Detection](https://github.com/your-username/Amharic-Fake-News-Detection)
 
+> ⚠️ **Note:**  
+> The AfriBERTa model code that uses Hugging Face authentication tokens cannot be publicly shared for security reasons.  
+> For research or educational access, please contact **er.krishnasrikar@gmail.com**.
+
