@@ -71,7 +71,9 @@ Develop and evaluate deep learning models for automated fake news detection in t
 ## 🏫 Institution and Credits
 
 **Project by:**  
-- Krishna Srikar Manikonda (EC23B1026)  
+- Krishna Srikar Manikonda
+- Likith Reedy
+- Dadam Hemanth Kumar Reddy
 
 **Under the guidance of:**  
 Dr. Venkatesan M. Sundaram  
@@ -89,13 +91,13 @@ We thank **Dr. Venkatesan M. Sundaram** for expert guidance and
 
 ## 🧾 Citation
 
-
 If you use this project, please cite it as:
 
-Manikonda, K. S.(2025).  
+Manikonda, K. S., Reddy, D. H. K., & Reddy, L. (2025).  
 **Comparative Analysis of BiLSTM and AfriBERTa for Fake News Detection in Low-Resource Amharic Language.**  
 National Institute of Technology, Puducherry.  
 Available at: [https://github.com/your-username/Amharic-Fake-News-Detection](https://github.com/your-username/Amharic-Fake-News-Detection)
+
 
 > ⚠️ **Note:**  
 > The AfriBERTa model code that uses Hugging Face authentication tokens cannot be publicly shared for security reasons.  
