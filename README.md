@@ -49,9 +49,10 @@ Develop and evaluate deep learning models for automated fake news detection in t
 ## ⚙️ Model Performance
 
 | Model | Accuracy | Precision | Recall | F1-Score | Train-Val Gap |
-|--------|-----------|------------|---------|-----------|
-| BiLSTM (Sweet Spot) | 91.97% | 94.61% | 91.32% | 92.94% | 0.5% |
-| AfriBERTa | 93.74% | 92.91% | 94.60% | 93.69% | 0.7% |
+|--------|-----------|------------|---------|-----------|----------------|
+| **BiLSTM (Sweet Spot)** | 91.97% | 94.61% | 91.32% | 92.94% | 0.5% |
+| **AfriBERTa** | 93.74% | 92.91% | 94.60% | 93.69% | 0.7% |
+
 
 - **Sweet Spot BiLSTM:** Lightweight, interpretable, and resource-efficient.  
 - **AfriBERTa:** Superior overall accuracy using transfer learning.
@@ -87,7 +88,7 @@ We thank **Dr. Venkatesan M. Sundaram** for expert guidance and
 ---
 
 ## 🧾 Citation
-## 🧾 Citation
+
 
 If you use this project, please cite it as:
 
